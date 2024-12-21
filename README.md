@@ -32,9 +32,6 @@ I love playing BGMI for fun.
   <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
 </a> -->
 
-<!-- 💻 Tech Stack:
-NodeJS AWS CSS3 JavaScript HTML5 TypeScript  Bootstrap  Express.js Next JS Redux React Router React TailwindCSS MongoDB MySQL LINUX Jira Docker Kubernetes -->
-
 <!-- Tech Stack Section -->
 <h3>💻 Tech Stack Present:</h3>
 
