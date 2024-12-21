@@ -1,18 +1,18 @@
-💫 About Me:
+💫 **About Me:**
 
-🔭 I’m currently working on:
-Web Application development (or) Enhacement using Angular framework.
+🔭 **I’m currently working on:**  
+Web Application development (or) Enhancement using Angular framework.
 
-👯 I’m looking to collaborate on:
-UI (Angular or React.js) projects
+👯 **I’m looking to collaborate on:**  
+UI (Angular or React.js) projects.
 
-🌱 I’m currently learning:
-react.js and backend development using node.js (or) cloud technologies most probably AWS.
+🌱 **I’m currently learning:**  
+React.js and backend development using Node.js (or) cloud technologies, most probably AWS.
 
-💬 Ask me about:
-JavaScript, Angular and any general software development questions.
+💬 **Ask me about:**  
+JavaScript, Angular, and any general software development questions.
 
-⚡ Fun fact:
+⚡ **Fun fact:**  
 I love playing BGMI for fun.
 
 <!-- Socials Section -->
